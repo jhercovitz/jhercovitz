@@ -13,7 +13,7 @@
 ### My daily routine:
 
 ```mermaid
-graphe TD;
+graph TD;
 Code-->Eat;
 Eat-->Family;
 Family-->Sleep;
