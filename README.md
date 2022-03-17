@@ -21,3 +21,6 @@ Sleep-->Code
 ```
 
 
+### My Github stats:
+![HGstats](https://github-readme-stats.vercel.app/api?username=jhercovitz&show_icons=true)
+
