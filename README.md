@@ -9,7 +9,6 @@
 
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-
 ### My daily routine:
 
 ```mermaid
@@ -20,6 +19,5 @@ Family-->Sleep;
 Sleep-->Code
 ```
 
-### My Github stats
 ![HGstats](https://github-readme-stats.vercel.app/api?username=jhercovitz&show_icons=true)
 
